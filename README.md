@@ -1,2 +1,2 @@
-# OIBSIP
-Task Submission Of Virtual Intern at Oasis Infobyte
+# temperature-converter-Website-using-html-css-JavaScript
+![temperature-converter-Website-using-html-css-JavaScript](img/github_cover.jpeg)
