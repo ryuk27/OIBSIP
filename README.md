@@ -2,7 +2,7 @@
 # <center>This repository is created for OASIS INTERNSHIP TASKS</center>
 
 
-- [Task  - Temperature Converter](https://replit.com/@ryuk27/Temp-Conversion)
+- [Task1  - Temperature Converter](https://replit.com/@ryuk27/Temp-Conversion)
 
 ``` 
 - If link is dead please let me know!
